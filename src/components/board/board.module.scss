@@ -1,0 +1,31 @@
+.board {
+    display: flex;
+    width: 1250px;
+    height: 650px;
+
+    p {
+      margin-top: 200px;
+      margin-left: 50px;
+      font-size: 40px;
+      font-weight: bold;
+    }
+      
+    span {
+      white-space: nowrap;
+      margin-left: -225px;
+      margin-top: 350px;
+      font-size: 20px;
+    }
+
+     img {
+      width: 900px;
+      height: 680px;
+      display: block;
+      margin-right: auto;
+      margin-left: 100px;
+  }
+  }
+
+
+
+ 

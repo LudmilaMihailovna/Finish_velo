@@ -1,0 +1,26 @@
+.footer {
+    height: var(--footer-height);
+    display: flex;
+    width: 1250px;
+    height: 55px;
+    align-items: center;
+    background-color: rgb(74, 113, 181);
+    justify-content: space-between;
+    color: #060606;
+    flex-shrink: 0;
+    font-size: 18px;
+    padding-left: 16px;
+    padding-right: 16px;
+
+    span {
+      font-weight: bold;
+    }
+  
+    // span:last-of-type {
+    //   margin-left: 50px;
+    // }
+  
+    // span:nth-child(2) {
+    //   margin-left: 36px;
+    // }
+  }
